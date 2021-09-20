@@ -26,7 +26,7 @@ def get_filters():
 
     # TO DO: get user input for month (all, january, february, ... , june)
     while (True):
-        month = input("Enter the month (all, january, february, ... , june) : ")
+        month = input("Enter the month (all, january, february, ... , june) : /// third modify P3")
         if (month == 'all' or month == 'january' or month == 'febuary' or month == 'march' or month == 'aprel'
                 or month == 'may' or month == 'june'):
             break
