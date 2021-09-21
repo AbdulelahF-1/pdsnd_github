@@ -12,7 +12,7 @@ ________________________________________
 ### Files ////used
 Include the files used
 
-<<<<<<< HEAD
+<<<<<<< HEAD of Credits
 ### Credits ????????? 
 ||||||| merged common ancestors
 ### Credits
