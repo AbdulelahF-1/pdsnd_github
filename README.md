@@ -5,13 +5,19 @@ Include the date you created this project and README file.
 
 ### Project Title
 Replace the Project Title
-
+________________________________________
 ### Description
-Describe what your project is about and what it does
+             Describe what your project is about and what it does
 
-### Files used
+### Files ////used
 Include the files used
 
+<<<<<<< HEAD
 ### Credits ????????? 
+||||||| merged common ancestors
+### Credits
+=======
+### ////Credits
+>>>>>>> documentation
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
